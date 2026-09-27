@@ -44,6 +44,10 @@ export const SETTINGS_CONFIG = {
                         label: languageLabel('Spanish (Español)', 'es'),
                         value: 'es',
                     },
+                    {
+                        label: languageLabel('Hebrew (עִברִית)', 'he'),
+                        value: 'he',
+                    },
                     { label: 'Automatic', value: 'auto' },
                 ],
                 default: 'en',
